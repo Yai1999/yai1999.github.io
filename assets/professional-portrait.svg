@@ -1,0 +1,53 @@
+<svg width="600" height="760" viewBox="0 0 600 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="760" fill="#F3F3F3"/>
+
+  <!-- shoulders / shirt -->
+  <path d="M155 470C155 410 193 355 249 335L300 315L351 335C407 355 445 410 445 470V760H155V470Z" fill="#123C73"/>
+  <path d="M205 470C205 425 240 390 285 390H315C360 390 395 425 395 470V760H205V470Z" fill="#1C4A7A" opacity="0.88"/>
+
+  <!-- shirt buttons -->
+  <circle cx="300" cy="470" r="6" fill="#D7E1F0"/>
+  <circle cx="300" cy="540" r="6" fill="#D7E1F0"/>
+  <circle cx="300" cy="610" r="6" fill="#D7E1F0"/>
+
+  <!-- neck -->
+  <path d="M268 335H332V430H268V335Z" fill="#A85E46"/>
+
+  <!-- head -->
+  <ellipse cx="300" cy="236" rx="128" ry="170" fill="#A9684A"/>
+
+  <!-- hair -->
+  <path d="M184 224C184 140 240 86 300 86C360 86 416 140 416 224V248H184V224Z" fill="#1E1E1E"/>
+  <path d="M188 230C203 155 257 118 300 118C343 118 397 155 412 230C396 207 365 190 333 188H267C235 190 203 207 188 230Z" fill="#2A2A2A"/>
+
+  <!-- ears -->
+  <ellipse cx="172" cy="250" rx="14" ry="20" fill="#A9684A"/>
+  <ellipse cx="428" cy="250" rx="14" ry="20" fill="#A9684A"/>
+
+  <!-- eyebrows -->
+  <path d="M230 215C248 208 267 208 279 214" stroke="#1F1F1F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M321 214C333 208 352 208 370 215" stroke="#1F1F1F" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- eyes -->
+  <ellipse cx="246" cy="247" rx="19" ry="12" fill="#D9E8F7"/>
+  <ellipse cx="354" cy="247" rx="19" ry="12" fill="#D9E8F7"/>
+  <circle cx="248" cy="248" r="5" fill="#1A1A1A"/>
+  <circle cx="356" cy="248" r="5" fill="#1A1A1A"/>
+
+  <!-- nose -->
+  <path d="M300 244C292 271 289 291 299 310C309 291 306 271 300 244Z" fill="#B1725C" opacity="0.6"/>
+
+  <!-- mouth -->
+  <path d="M255 334C275 344 288 349 300 349C312 349 326 344 345 334" stroke="#7B3D35" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- facial shading -->
+  <path d="M214 291C236 270 260 262 283 265C278 291 268 318 243 341C224 332 210 311 214 291Z" fill="#8E513E" opacity="0.20"/>
+  <path d="M387 291C365 270 341 262 317 265C322 291 332 318 357 341C376 332 390 311 387 291Z" fill="#8E513E" opacity="0.16"/>
+
+  <!-- subtle beard shadow -->
+  <path d="M244 305C259 323 276 332 300 333C324 333 340 323 356 305C349 347 329 363 300 365C271 363 251 347 244 305Z" fill="#2F2F2F" opacity="0.18"/>
+
+  <!-- collar / shirt details -->
+  <path d="M240 375L280 430H320L360 375V470H240V375Z" fill="#1A3E73"/>
+  <path d="M225 410L278 430L300 470L322 430L375 410" stroke="#D9E8F7" stroke-opacity="0.15" stroke-width="6"/>
+</svg>
